@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiya, I'm Robert Chicas! 👋
 
 <!--
 **robertchicas/robertchicas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
